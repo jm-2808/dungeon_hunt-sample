@@ -1,4 +1,4 @@
-# dungeon_hunt-sample
+# Dungeon Hunt Sample Files
 Sample files from the Dungeon Hunt project\
 A first person shooter game developed in C++ using the DirectX API, as part of a University group project\
 This repository contains files for the features I worked on:
